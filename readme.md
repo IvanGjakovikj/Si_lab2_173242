@@ -5,7 +5,7 @@
 
 Control flow graph 
 
-'/c/Users/Ivan/Desktop/Graph JPG.jpg'
+![screenshot](Graph JPG.jpg)
 
 Цикломатската Комплексност 
 
