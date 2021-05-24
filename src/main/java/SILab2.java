@@ -50,7 +50,7 @@ public class SILab2 {
                         throw new RuntimeException("The seconds are not valid"); // Q
                 }
             }
-            else if (hr == 24 && min == 0 && sec == 0) { // R TTT TTF FXX TFX
+            else if (hr == 24 && min == 0 && sec == 0) { // R got
                 result.add(hr * 3600 + min * 60 + sec); // S
             }
             else {
