@@ -17,10 +17,13 @@ P+1 , каде што P е бројот на предикатни јазли. В
 
 if (hr < 0 || hr > 24) 
 TX || FT || FF
+
 if (min < 0 || min > 59) 
 TX || FT || FF
+
 if (sec >= 0 && sec <= 59) 
 TT TF FX
+
 else if (hr == 24 && min == 0 && sec == 0)
 TTT TTF FXX TFX
 
