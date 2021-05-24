@@ -5,7 +5,7 @@
 
 Control flow graph 
 
-![screenshot](Graph JPG.jpg)
+![screenshot](Graph.jpg)
 
 Цикломатската Комплексност 
 
